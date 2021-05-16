@@ -1,0 +1,96 @@
+body{
+    background-color:#0CA4A5;
+}
+.nicon{
+    height:20px;
+    width:20px;
+}
+.background_1{
+    border: 40px;
+    margin:auto;
+    font-family: 'Satisfy', cursive;
+    position: relative;
+    text-align: center;
+    color:black;
+}
+.hi{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: x-large;
+}
+.intro{
+    font-size: xxx-large;
+}
+.aboutme{
+    margin:auto;
+    margin-top:50px solid;
+    padding-top: 50 px;
+    background-color: #F78764;
+    
+    font-size: large;
+}
+.c1{
+    padding:5%;
+}
+.skills{
+    margin:auto;
+    height:500px;
+    width:75%;
+}
+.cell1{
+    background-color: #6C698D;
+    width:33%;
+    border: 10px solid #0CA4A5;
+    text-align: center;
+    color: white;
+    
+}
+.cell2{
+    background-color: #EFEFEF;
+    width:33%;
+    border: 10px solid #0CA4A5;
+    text-align: center;
+    
+}
+.cell3{
+    background-color: #0C0A3E;
+    width:33%;
+    border: 10px solid #0CA4A5;
+    text-align: center;
+    color: white;
+}
+.tableheading{
+    text-align: center;
+    margin:3%;
+    font-size:xx-large;
+}
+.icon{
+    margin: auto;
+}
+.education{
+    width:"600px";
+}
+.suggestions{
+    border-right:500px solid #0C0A3E;
+}
+.end{
+    margin-top: 60px;
+    background-color: #0C0A3E;
+    color:white;
+}
+.final{
+    margin-left: 100px;
+    
+}
+.fb{
+    
+    width:fit-content;
+}
+.ig{
+    width:fit-content;
+}
+.gm{
+    width:fit-content;
+}
